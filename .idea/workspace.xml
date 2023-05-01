@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa6ae97-9dee-4381-991b-bbe04a504038" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js-java.iml" afterDir="false" />
+    <list default="true" id="3fa6ae97-9dee-4381-991b-bbe04a504038" name="Changes" comment="2 завдання зробив">
+      <change beforePath="$PROJECT_DIR$/JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +54,23 @@
       <option name="presentableId" value="Default" />
       <updated>1682961549520</updated>
       <workItem from="1682961550752" duration="1731000" />
-      <workItem from="1682964765211" duration="4420000" />
+      <workItem from="1682964765211" duration="5724000" />
     </task>
+    <task id="LOCAL-00001" summary="2 завдання зробив">
+      <created>1682969360515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682969360515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 завдання зробив" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 завдання зробив" />
   </component>
 </project>

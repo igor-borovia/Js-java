@@ -31,10 +31,19 @@ let middleName = `borovia`
 let lastName = `sergioyvith`
 console.log(firstName, middleName, lastName, )
  // завдання 3
-// let a1 = `100`
-// let b1 = `100`
-// let c1= `true`
-// console.log( typeof )
+
+let a1 = 100
+let b1 = 100
+let c1= true
+console.log(typeof a1)
+console.log(typeof b1)
+console.log(typeof c1)
+
+// promt
+
+let name = prompt('y name, by father,:')
+
+console.log(name);
 
 
 
