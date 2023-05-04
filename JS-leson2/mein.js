@@ -9,20 +9,46 @@ let users = {
     genre: `300`,
 }
 console.log(users)
-//---------------------------------
-let book = {
-    title: `taras-ivanov`,
-    pageCount: `it-techno`,
-    genre: 3000,
-    authors: [`igor`,`taras`,`andy`],
-    wife: {
-       name1: `igor`,
-       age: 20,
-       name2: `taras`,
-        age2: 30,
-        name3: `andy`,
-        age3: 44,
-    }
+// Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre, authors. Поле "автори" - являється  масивом. Кожен автор має поля name та age.
+let books1 = {
+    title: `Andy Dovbush`,
+    pageCount: 300,
+    genre: `filosofia`,
+    authors: [`A.G`,40]
 }
-console.log(book)
-//--------------------------------------
+console.log(books1)
+
+let books2 = {
+    title: `Viktor Tkath`,
+    pageCount: 100,
+    genre: `Ictoria`,
+    authors: [`V.T`,30 ]
+}
+console.log(books2)
+
+
+let books3 = {
+    title: `Taras Barin`,
+    pageCount: 600,
+    genre: `Stallker`,
+    authors: [`A.T`,32]
+}
+console.log(books3)
+
+// Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача
+
+let usersf = [
+    {name:`igor`, username: `topor`, password: `paswoord1`},
+    {name:`igor`, username: `topor`, password: `paswoord2`},
+    {name:`igor`, username: `topor`, password: `paswoord3`},
+    {name:`igor`, username: `topor`, password: `paswoord3`},
+    {name:`igor`, username: `topor`, password: `paswoord4`},
+    {name:`igor`, username: `topor`, password: `paswoord5`},
+    {name:`igor`, username: `topor`, password: `paswoord6`},
+    {name:`igor`, username: `topor`, password: `paswoord7`},
+    {name:`igor`, username: `topor`, password: `paswoord8`},
+    {name:`igor`, username: `topor`, password: `paswoord9`},
+    {name:`tolia`, username: `fsvbet`, password: `paswoord10`},
+]
+console.log(usersf)
+console.log([`tolia`])
